@@ -31,8 +31,13 @@ This dataset collects information from 100k medical appointments in Brazil and i
 
 ## Research Questions
 What is the ratio of show to no show?
+
 Does having a scholarship have effect on the no-show of patients?
+
 Does gender determines if a patient show up or not?
+
 what is the effect of Handicap on patient showing up for appointment?
+
 In the different age group, do we have more female than male?
+
 What is the most important factor that determines if a patient will show up or not
