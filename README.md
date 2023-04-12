@@ -44,3 +44,6 @@ what is the effect of Handicap on patient showing up for appointment?
 In the different age group, do we have more female than male?
 
 What is the most important factor that determines if a patient will show up or not
+
+## Libraries:
+Pandas, Numpy, Seaborn, Matplotlib
